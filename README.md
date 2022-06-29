@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Droith
+- 👋 Hi, I’m @Droith / Rohit Biswas
 - 👀 I’m interested in games & mobile application
 - 🌱 I’m currently learning python
 - 💞️ I’m not looking to collaborate .
