@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Droith / Rohit Biswas
-- 👀 I’m interested in games & mobile application
-- 🌱 I’m currently learning python
-- 💞️ I’m not looking to collaborate .
+- 👀 Interested in games & mobile application
+- 🌱 Currently learning python and unity 
 - 📫 Reach me through rohitbishwas13@gmail.com
 
 <!---
